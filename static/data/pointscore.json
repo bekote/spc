@@ -1,0 +1,117 @@
+[
+    {
+        "type": "Age at diagnosis",
+        "points": [
+            {
+                "label": "<65 years old",
+                "value": 17.58190398
+            },
+			{
+                "label": "≥65 years old",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "type": "Sex",
+        "points": [
+            {
+                "label": "Male",
+                "value": 1.531997559
+            },
+            {
+                "label": "Female",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "type": "Carcinoembryonic antigen (CEA) level at diagnosis",
+        "points": [
+            {
+                "label": "Normal",
+                "value": 0
+            },
+            {
+                "label": "Elevated",
+                "value": 13.36874124
+            }
+        ]
+    },
+    {
+        "type": "Number of examined lymph nodes",
+        "points": [
+            {
+                "label": "<12",
+                "value": 12.22020766
+            },
+            {
+                "label": "≥12",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "type": "Perineural invasion",
+        "points": [
+            {
+                "label": "Not identified",
+                "value": 0
+            },
+            {
+                "label": "Identified",
+                "value": 9.044107594
+            }
+        ]
+    },
+    {
+        "type": "Tumor deposits",
+        "points": [
+            {
+                "label": "Not identified",
+                "value": 0
+            },
+            {
+                "label": "Identified",
+                "value": 10.72070955
+            }
+        ]
+    },
+    {
+        "type": "AJCC 8th TNM stage",
+        "points": [
+            {
+                "label": "I",
+                "value": 0
+            },
+            {
+                "label": "IIA",
+                "value": 21.80954785
+            },
+            {
+                "label": "IIB",
+                "value": 49.18822413
+            },
+            {
+                "label": "IIC",
+                "value": 56.90809532
+            },
+            {
+                "label": "IIIA",
+                "value": 17.99910254
+            },
+            {
+                "label": "IIIB",
+                "value": 48.4941835
+            },
+            {
+                "label": "IIIC",
+                "value": 76.08728764
+            },
+            {
+                "label": "IV",
+                "value": 100
+            }
+        ]
+    }
+]
